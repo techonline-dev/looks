@@ -1,0 +1,190 @@
+
+@media(max-width:500px){
+	.uni {
+    opacity: 0.06;
+    left: 0;
+    top: 230px;
+    position: absolute;
+    overflow: visible;
+    width: 100%;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Mr Grieves;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    letter-spacing: 1px;
+    color: #d3af37;
+}
+.uniq {
+    opacity: 0.06;
+    left: 0;
+    top: 360px;
+    position: absolute;
+    overflow: visible;
+    width: 100%;
+    white-space: nowrap;
+    text-align: right;
+    font-family: Mr Grieves;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    letter-spacing: 1px;
+    color: #d3af37;
+}
+.media img {
+    width: 160px;
+    background-image: url(../images/.png);
+}
+.media-body h2 {
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: Raleway;
+    font-size: 50px;
+}
+.media-body p {
+    font-size: 18px;
+    margin-left: 12px;
+    margin-top: 15px;
+    color: #d3af37;
+    font-family: Poppins;
+}
+.banner-cont h3 {
+    font-size: 30px;
+    font-family: Raleway;
+}
+.un {
+    font-family: Mr Grieves;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 43px;
+    letter-spacing: 1px;
+    color: #d3af37;
+}
+.banner-sec img {
+    margin-right: 0px;
+    margin-top: 0;
+}
+.ca {
+    width: 70px;
+    height: 70px;
+    margin: 0px;
+    margin-bottom: 10px;
+    background-image: url(../images/ene.png);
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.ca img {
+    width: auto;
+    height: 34px;
+    text-align: center;
+    padding: 0px;
+    margin: 7px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ca p {
+    font-size: 8px;
+    margin-top: 0;
+    padding-top: 0px;
+    text-align: center;
+}
+.banner-cont {
+    margin-top: 40px;
+    margin-left: 0;
+}
+.head-title {
+    font-family: stika subheading;
+    font-size: 24px;
+	    margin-top: 30px;
+}
+
+.loyality-card h3 {
+    color: #f7d04e;
+    font-family: Sitka Subheading;
+    font-size: 24px;
+}
+.loyality-card h4 {
+    font-family: Segoe UI;
+    font-size: 18px;
+}
+.realm_box h4 {
+    font-size: 20px;
+}
+.realm_box p {
+    font-size: 16px;
+}
+.block-parallax-1 .md-box {
+    padding: 170px 0 170px !important;
+    position: relative;
+    height: 30% !important;
+}
+.block-parallax-1 .parallax-bg {
+    background-attachment: fixed;
+    background-image: url(../images/team1.png) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: 110% !important;
+}
+.INAUGURATION p {
+    color: #d3af37;
+    margin-top: 25px;
+    font-family: Sitka Subheading;
+    font-size: 28px;
+}
+.INAUGURATION p span {
+    font-size: 16px;
+    font-family: Poppins;
+}
+.CELEB p {
+    color: #d3af37;
+    margin-top: 25px;
+    font-family: Sitka Subheading;
+    font-size: 28px;
+}
+.CELEB p span {
+    font-size: 16px;
+    font-family: Poppins;
+}
+.VIDEO p {
+    color: #d3af37;
+    font-family: Sitka Subheading;
+    font-size: 28px;
+    margin-top: 25px;
+}
+.VIDEO p span {
+    font-size: 16px;
+    font-family: Poppins;
+}
+.VIDEO iframe {
+    border-radius: 8px;
+    height: 220px;
+}
+
+.cardDetails {
+    font-size: 12px;
+}
+
+.cardDetails h4 {
+    font-size: 18px;
+}
+
+.cardDetails h6 {
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+}

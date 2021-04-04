@@ -1,0 +1,404 @@
+*{
+margin:0px;
+padding:0px;
+
+}
+body{
+	margin:0;
+	padding:0;
+	background-image: url(images/gr.jpg);
+}
+
+.nav-item a:hover{
+	color: #d3af37;	 
+}
+.float {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 50px;
+    left: 20px;
+    background-color: #d3af37;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    z-index: 100;
+	box-shadow: 0px 0px 24px rgba(0,0,0,0.5);
+}
+
+.my-float{
+	margin-top:16px;
+	}
+
+.flo {
+    display: inline-block;
+    position: fixed;
+    width: 125px;
+    height: 50px;
+    bottom: 50px;
+    right: 20px;
+    padding: 5px;
+    background-color: #d3af37;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 16px;
+    z-index: 100;
+	box-shadow: 0px 0px 24px rgba(0,0,0,0.5);
+}
+.my-float2{
+	margin-top:12px;
+	}
+	
+.ca {
+    width: 100%;
+    height: 100px;
+    margin: 10px;
+    background-image: url(../images/ene.png);
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.ca img {
+    width: auto;
+    height: 50px;
+    text-align: center;
+    padding: 0px;
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ca p {
+    font-size: 11px;
+    margin-top: 0;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.un{
+	
+	font-family: Mr Grieves;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	letter-spacing: 1px;
+	color:#d3af37;
+	
+}
+.uni{
+    opacity: 0.06;
+	left: 320px;
+	top: 225px;
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Mr Grieves;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	letter-spacing: 1px;	
+	color:#d3af37;
+	
+}
+
+.uniq{
+    opacity: 0.06;
+	left: 280px;
+	top: 380px;
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Mr Grieves;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	letter-spacing: 1px;	
+	color:#d3af37;
+	
+}
+.fa-play{
+
+}
+
+#fac{
+padding:10px;
+border:1px solid white;
+color:#fff;
+height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  display: inline-block;
+}
+#fae{
+margin-left:10px;
+color:white;
+border:1px solid white;
+border-radius:50px;
+padding:10px;
+}
+
+.ENSURE {
+	font-family: Sitka Subheading;
+	font-style: normal;
+	font-weight: normal;
+	font-size:100px !important;
+	letter-spacing: 1px;
+	margin: 15px;
+}
+.ENSURE .card {
+    width: 100%;
+    border-radius: 10px;
+}
+.ENSURE p {
+    color: #d3af37;
+    font-size: 24px;
+	margin-top: 20px;
+	text-align: center;
+}
+.ENSURE p span {
+    font-size: 18px;
+}
+
+#service{
+	font-family: Sitka Subheading;
+	font-style: normal;
+	font-weight: normal;
+	font-size:100px !important;
+	letter-spacing: 1px;
+	
+}
+#lovality{
+	font-family: Sitka Subheading;
+	font-style: normal;
+	font-weight: normal;
+	font-size:100px !important;
+	letter-spacing: 1px;
+}
+
+#wha{
+	font-family: Sitka Subheading;
+	font-style: normal;
+	font-weight: normal;
+	font-size:70px !important;
+	letter-spacing: 1px;
+}
+
+.banner-cont {
+    margin-top: 150px;
+    margin-left: 120px;
+}
+
+.banner-sec img {
+    /* margin-right: -110px; */
+    margin-top: 100px;
+}
+.banner-cont h3 {
+    font-size: 50px;
+    font-family: Raleway;
+}
+.banner-cont p {
+     color: #d3af37;
+    font-size: 20px;
+    font-family: Raleway;
+}
+.banner-cont a span {
+    font-size: 15px;
+    font-family: Raleway;
+}
+i.fa.fa-play {
+    font-size: 20px;
+    color: #d3af37;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding-top: 3px;
+    padding-left: 8px;
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+}
+.media img {
+    width: 250px;
+    background-image: url(../images/.png);
+}
+.media img {
+    width: 250px;
+    background-image: url(../images/.png);
+}
+.media-body h2 {
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: Raleway;
+    font-size: 90px;
+}
+.media-body p {
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: #d3af37;
+    font-family: Poppins;
+}
+
+.head-title {
+	font-family: stika subheading;
+    font-size: 35px;
+}
+
+ .loyality-card h3 {
+    color: #f7d04e;
+    font-family: Sitka Subheading;
+    font-size: 35px;
+} 
+
+.loyality-card h4 {
+    font-family:Segoe UI;
+	font-size:20px;
+}
+.realm_box {
+	padding: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-image: url(../images/waa.png);
+}
+.realm_box h4 {
+    font-size: 28px;
+}
+.realm_box p {
+    font-size: 18px;
+}
+.realm_box h6 {
+    float: right;
+    color: #d3af37;
+}
+
+.client_review .card {
+    border: 1px solid white;
+    border-radius: 10px;
+    background-image: url(../images/waa.png);
+	margin: 10px;
+}
+.client_review img {
+    width: 80px !important;
+    margin-top: -40px !important;
+    display: block !important;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+.client_review p {
+    font-size: 16px;
+}
+.owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: visible !important;
+    -webkit-transform: translate3d(0,0,0) ;
+}
+
+.INAUGURATION {
+    margin-top: 100px;
+}
+.INAUGURATION img {
+    border-radius: 8px;
+    width: 400px;
+}
+.INAUGURATION p{
+    color: #d3af37;
+    margin-top: 50px;
+    font-family: Sitka Subheading;
+    font-size: 40px;
+}
+.INAUGURATION p span{
+    font-size: 20px;
+    font-family: Poppins;
+}
+
+.CELEB {
+    margin-top: 50px;
+}
+.CELEB p {
+    color: #d3af37;
+    margin-top: 50px;
+    font-family: Sitka Subheading;
+    font-size: 40px;
+}
+.CELEB p span {
+    font-size: 20px;
+    font-family: Poppins;
+}
+.CELEB img {
+    border-radius: 8px;
+    width: 400px;
+}
+
+.VIDEO {
+    margin-top: 50px;
+}
+/* .VIDEO img { */
+    /* border-radius: 8px; */
+    /* width: 400px; */
+/* } */
+.VIDEO iframe {
+    border-radius: 8px;
+    width: 400px;
+	height:250px;
+}
+.VIDEO p {
+    color: #d3af37;
+    font-family: Sitka Subheading;
+    font-size: 40px;
+	margin-top: 50px;
+}
+.VIDEO p span {
+    font-size: 20px;
+    font-family: Poppins;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.block-parallax-1 {
+    overflow: hidden;
+    position: relative;
+}
+.block-parallax-1 .parallax-bg {
+    background-attachment: fixed;
+    background-image: url(../images/team1.png);
+    background-position: 0px 0px;
+    background-repeat: repeat;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    min-width: 1170px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+.block-parallax-1 .md-box {
+    padding: 200px 0 200px;
+    position: relative;
+    height: 100%;
+    text-align: center;
+}
+
+.cardDetails ul li {
+    list-style-type: none;
+    background: url(../images/roundBullet.png) 0 40% no-repeat;
+    padding-left: 22px;
+    line-height: 2em;
+}
+.carditem
+{
+    min-height:280px;
+}
+
+
+
+
+
+
